@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Find_Peak_Element_162",
+            "request": "launch",
+            "mainClass": "Leetcode.Find_Peak_Element_162",
+            "projectName": "GITHUB Leetcode_7007bcb7"
+        },
+        {
+            "type": "java",
+            "name": "Peak_Element_162",
+            "request": "launch",
+            "mainClass": "Leetcode.Peak_Element_162",
+            "projectName": "GITHUB Leetcode_7007bcb7"
+        },
+        {
+            "type": "java",
             "name": "Arranging_coins_leetcode_441",
             "request": "launch",
             "mainClass": "Leetcode.Arranging_coins_leetcode_441",
