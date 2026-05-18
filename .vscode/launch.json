@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Intersecton_Of_Two_Arrays_349",
+            "request": "launch",
+            "mainClass": "Leetcode.Intersecton_Of_Two_Arrays_349",
+            "projectName": "GITHUB Leetcode_7007bcb7"
+        },
+        {
+            "type": "java",
+            "name": "Intersection_Of_Two_Arrays_349",
+            "request": "launch",
+            "mainClass": "Intersection_Of_Two_Arrays_349",
+            "projectName": "GITHUB Leetcode_7007bcb7"
+        },
+        {
+            "type": "java",
             "name": "Find_Peak_Element_162",
             "request": "launch",
             "mainClass": "Leetcode.Find_Peak_Element_162",
